@@ -1,7 +1,8 @@
-
 streamlit
 pandas
 plotly
-requests
+streamlit-authenticator
 streamlit-lottie
 streamlit-autorefresh
+PyYAML
+requests
